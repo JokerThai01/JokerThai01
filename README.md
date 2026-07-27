@@ -34,6 +34,27 @@
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=JokerThai01&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/JokerThai01?style=for-the-badge&color=58A6FF&labelColor=1a1a1a)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Currently Building
+
+**UE SDK Development Tool** — an Unreal Engine offset-finder & SDK generator with
+kernel-driver-backed memory reading, structural bone/skeleton discovery, and
+scan-result caching for repeat launches.
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
